@@ -4,18 +4,6 @@
   <b>Backend development, microservices, REST API, PostgreSQL, Kafka, IoT systems, and integration testing</b>
 </p>
 
-<p align="center">
-  <a href="mailto:strebilly@mail.ru">
-    <img src="https://img.shields.io/badge/Email-strebilly%40mail.ru-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/big_floppa_russian_cat">
-    <img src="https://img.shields.io/badge/Telegram-%40big__floppa__russian__cat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/stoneshik">
-    <img src="https://img.shields.io/badge/GitHub-stoneshik-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## About me
@@ -99,19 +87,6 @@ src="https://streak-stats.demolab.com?user=stoneshik&theme=tokyonight&hide_borde
 alt="GitHub streak" 
 width="560"
 />
-
----
-
-## Focus Areas
-
-- Java backend development
-- Spring Boot microservices
-- PostgreSQL and SQL optimization
-- REST API and Contract First
-- Kafka and event-driven systems
-- IoT backend and telemetry processing
-- Integration testing with Testcontainers
-- Internal admin panels and monitoring systems
 
 ---
 
