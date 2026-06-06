@@ -73,70 +73,32 @@ I also have experience in frontend development using React, TypeScript, and SCSS
 
 ---
 
-## Featured Projects
-
-### All ITMO Labs
-
-A repository with works I did while studying at ITMO University.
-
-<p>
-  <a href="https://github.com/stoneshik/ITMO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stoneshik&repo=ITMO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### Information Systems Labs
-
-Labs for the "Information Systems" course. The repository demonstrates the backend stack, working with APIs, databases, code structuring, and practices similar to industrial development.
-
-<p>
-  <a href="https://github.com/stoneshik/ITMO/tree/master/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stoneshik&repo=ITMO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### Service-Oriented Architecture Labs
-
-Labs for the course "Service-Oriented Architecture." This repository demonstrates an understanding of APIs, integrations, separation of concerns, server-side logic design, and service interactions.
-
-<p>
-  <a href="https://github.com/stoneshik/ITMO/tree/master/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81_%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stoneshik&repo=ITMO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### Computer Architecture Lab — Programming Language, Translator and CPU Simulator
-
-A programming language with a Python-to-machine code translator and a processor simulator that executes this machine code has been implemented.
-
-<p>
-  <a href="https://github.com/stoneshik/ac-third-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stoneshik&repo=ac-third-lab&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stoneshik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoneshik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=stoneshik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" 
+        alt="GitHub stats" 
+        width="420"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoneshik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+        alt="Top languages" 
+        width="320"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=stoneshik&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stoneshik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
+<img 
+src="https://streak-stats.demolab.com?user=stoneshik&theme=tokyonight&hide_border=true" 
+alt="GitHub streak" 
+width="560"
+/>
 
 ---
 
