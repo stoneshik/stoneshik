@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Java Backend Developer | Spring Boot | PostgreSQL | Kafka</h1>
 
 <p align="center">
@@ -161,4 +160,3 @@ A programming language with a Python-to-machine code translator and a processor 
   <a href="https://t.me/big_floppa_russian_cat">Telegram</a> |
   <a href="https://github.com/stoneshik">GitHub</a>
 </p>
-```
