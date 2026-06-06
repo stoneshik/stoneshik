@@ -1,7 +1,19 @@
-<h1 align="center">Java Backend Developer | Spring Boot | PostgreSQL | Kafka</h1>
+<h1>Java Backend Developer | Spring Boot | PostgreSQL | Kafka</h1>
 
-<p align="center">
+<p>
   <b>Backend development, microservices, REST API, PostgreSQL, Kafka, IoT systems, and integration testing</b>
+</p>
+
+<p>
+  <a href="mailto:strebilly@mail.ru">
+    <img src="https://img.shields.io/badge/Email-strebilly%40mail.ru-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/big_floppa_russian_cat">
+    <img src="https://img.shields.io/badge/Telegram-%40big__floppa__russian__cat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/stoneshik">
+    <img src="https://img.shields.io/badge/GitHub-stoneshik-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
