@@ -1,4 +1,4 @@
-<h1>Java Backend Developer | Spring Boot | PostgreSQL | Kafka</h1>
+<h1>Backend Developer | Golang | Spring Boot | PostgreSQL | Kafka</h1>
 
 <p>
   <b>Backend development, microservices, REST API, PostgreSQL, Kafka, IoT systems, and integration testing</b>
@@ -20,7 +20,7 @@
 
 ## About me
 
-Java Backend Developer with experience developing backend services, microservice web applications, REST APIs, integrations, and working with PostgreSQL, Kafka, Keycloak, Docker, and Testcontainers.
+Backend Developer with experience developing backend services, microservice web applications, REST APIs, integrations, and working with PostgreSQL, Kafka, Keycloak, Docker, and Testcontainers.
 
 Worked on startup products in the following domains:
 
@@ -36,6 +36,7 @@ I also have experience in frontend development using React, TypeScript, and SCSS
 ### Backend
 
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -105,7 +106,7 @@ width="560"
 ## Contacts
 
 <p>
-  <a href="mailto:strebilly@mail.ru">Email</a> |
-  <a href="https://t.me/big_floppa_russian_cat">Telegram</a> |
+  <a href="mailto:strelbitskyilya@gmail.com">Email</a> |
+  <a href="https://t.me/ilya_java">Telegram</a> |
   <a href="https://github.com/stoneshik">GitHub</a>
 </p>
